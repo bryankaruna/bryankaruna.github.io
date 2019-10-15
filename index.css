@@ -6,6 +6,7 @@ body{
 .container{
     padding: 0;
     margin: 0;
+    width: 75%;
 }
 
 #base-con{
@@ -23,7 +24,7 @@ body{
     color:tomato;
     font-size: 3em;
     font-weight: 500;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
 }
 
 #pp{
@@ -46,4 +47,13 @@ body{
     margin-top: 15px; 
     letter-spacing: 5px;
     font-weight: 700;
+}
+
+@media only screen and (max-width: 600px) {
+    #container {
+        width: 100%;
+    }
+    #lname{
+        letter-spacing: 2px;
+    }
 }
