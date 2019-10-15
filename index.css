@@ -54,9 +54,21 @@ body{
         width: 100%;
     }
     #lname{
-        letter-spacing: 2px;
+        letter-spacing: none;
+        font-size: 2em;
+        text-align: center;
+    }
+    #fname{
+        text-align: center;
     }
     #left-con{
         border-right: none;
+    }
+
+    #personal{
+        text-align: center;
+    }
+    #motto{
+        text-align: center;
     }
 }
