@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding: 0;
+    margin: 0;
+}
+
+#base-con{
+    box-shadow: 10px 10px 50px #aaaaaa;
+}
+
+#fname{
+    color:tomato;
+    font-size: 5em;
+    font-weight: 700;
+    margin: 0;
+}
+
+#lname{
+    color:tomato;
+    font-size: 3em;
+    font-weight: 500;
+    letter-spacing: 5px;
+}
+
+#pp{
+    margin-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border-radius: 50%;
+}
+
+#left-con{
+    border-right: 10px solid #aaaaaa;
+    background-color:tomato;
+    color:white;
+}
+
+.title{
+    text-align: center; 
+    margin-top: 15px; 
+    letter-spacing: 5px;
+    font-weight: 700;
+}
