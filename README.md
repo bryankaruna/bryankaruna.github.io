@@ -1,3 +1,5 @@
 # portofolio
 portofolio is going to live soon!
-::rocket:: launched soon
+
+
+:rocket: launching in 3 2 1...
